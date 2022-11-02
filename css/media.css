@@ -1,0 +1,33 @@
+@media(max-width:700px){
+    .lop h1{
+        font-size: 20px;
+        
+    }
+    .dev{
+        height: 50px;
+    }
+    .logo h1{
+        font-size: 20px;
+        padding-top: 10px;
+    }
+    .ban input{
+        margin-left: 10px;
+    }
+    .layer iframe{
+        left: -105%;
+        position: absolute;
+        width: 200px;
+    }
+    .box{
+        margin-left: 8px;
+        width: 400px;
+    }
+    .box1 {
+        margin-left: 8px;
+        padding-top: 4px;  
+    }
+    .van{
+        width: 360px;
+        margin-top: 10px;
+    }
+}
